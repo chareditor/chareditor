@@ -13,5 +13,5 @@ The autor of this tool is [@alestiago](https://github.com/alestiago). He is curr
 → [Chareditor YouTube Channel](https://www.youtube.com/channel/UCbfi76FKiA7yFaKeRHuRCWg) here we upload creations made by users! <br><br>
 🐤 Twitter <br>
 → [Chareditor Twitter Account](https://twitter.com/ChareditorLCD) <br><br>
-✉️ Email contact <br>
+💌 Email contact <br>
 → Contact with us at contact@chareditor.com <br><br>
