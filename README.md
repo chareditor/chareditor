@@ -9,9 +9,9 @@ You can contribute to this repository by suggesting a Pull Request. Try to make 
 The autor of this tool is [alestiago](https://github.com/alestiago). He is currently the only administrator of the page, feel free to contact with him via his [twitter](https://twitter.com/alestiago3).
 
 ## Social
-📹 YouTube
-→ [Chareditor YouTube Channel](https://www.youtube.com/channel/UCbfi76FKiA7yFaKeRHuRCWg) here we upload creations made by users!
-🐤 Twitter
-→ [Chareditor Twitter Account](https://twitter.com/ChareditorLCD)
-✉️ Email contact
-→ Contact with us at contact@chareditor.com
+📹 YouTube <br>
+→ [Chareditor YouTube Channel](https://www.youtube.com/channel/UCbfi76FKiA7yFaKeRHuRCWg) here we upload creations made by users! <br><br>
+🐤 Twitter <br>
+→ [Chareditor Twitter Account](https://twitter.com/ChareditorLCD) <br><br>
+✉️ Email contact <br>
+→ Contact with us at contact@chareditor.com <br><br>
